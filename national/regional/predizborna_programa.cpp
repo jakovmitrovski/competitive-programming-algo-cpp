@@ -41,4 +41,5 @@ int main()
 
     cout << solve(0, x, y, k);
 
-    r
+    return 0;
+}
